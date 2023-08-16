@@ -53,7 +53,7 @@
         - Expect multiples of the same number to be skipped in code
         - Expect an error if input wrong amount of change
         - Expect alert for incorrect code input
-        - Expect alert box pop up with no info 
+        - Expect alert box pop up  
 
 */
    
