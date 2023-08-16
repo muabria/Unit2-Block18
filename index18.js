@@ -1,17 +1,17 @@
-/*                          Multiplication
+/*                          Multiplication/ concatOdds
                          
 
-            PseudoCode for 'Multiplation Functoion' Test : UNIT
+            PseudoCode for 'Multiplation / concatOdds Functoion' Test : UNIT
         Happy Path
         
-        - A function called "multiplication" that returns the product of the two input numbers.
+        - Functions called "multiplication + concatOdds" that returns the product of the two input numbers.
         - Should return a single array that only contains the odd numbers 
         - Expect the odd numbers in ascending order from both of the arrays.
         - Expect each number combo INPUT to result true (number, string, and etc) or false
-        - Expect the function to return
+        - Expect concatOdds to be an array of numbers that are listed in the two paramater arrays
+        - Expect concatOdds to be an array in ascending order
         - Expect inputs to be numbers 
-        - Should specify amount for inputs
-        - Should format a functioning code
+        - Expect the function to return
         
         
         Unhappy Path 
@@ -21,7 +21,8 @@
         - Expect an error if input wrong number
         - Expect an error if format is not correct 
 
-    Example: 
+    Example for (concatOdds) : 
+
         concatOdds([3, 2, 1], [9, 1, 1, 1, 4, 15, -1])
         ...should result in [-1, 1, 3, 9, 15]
 
