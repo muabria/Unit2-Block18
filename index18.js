@@ -6,11 +6,11 @@
         
         - Functions called "multiplication + concatOdds" that returns the product of the two input numbers.
         - Should return a single array that only contains the odd numbers 
-        - Expect the odd numbers in ascending order from both of the arrays.
+        - Expect inputs to be numbers 
         - Expect each number combo INPUT to result true (number, string, and etc) or false
         - Expect concatOdds to be an array of numbers that are listed in the two paramater arrays
         - Expect concatOdds to be an array in ascending order
-        - Expect inputs to be numbers 
+        - Expect the odd numbers in ascending order from both of the arrays.
         - Expect the function to return
         
         
@@ -57,4 +57,3 @@
         - Expect alert box pop up  
 
 */
-   
